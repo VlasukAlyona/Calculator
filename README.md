@@ -12,4 +12,4 @@
 
 В проекте реализован калькулятор "Стоимость разработки сайта" с подсчётом цены в зависимости от выбранных пунктов. 
 
-Ссылка проекта https://vlasukalyona.github.io/Willberries/
+Ссылка проекта https://vlasukalyona.github.io/Calculator/
